@@ -1874,3 +1874,11 @@ function rock(){
 console.log(my)
 }
 */
+
+// what will below code print in java script
+//console.log("har\"".length); 
+
+// let str="please give rs 1000";
+
+// let a=str.replace(str[4],'z');
+// console.log(a);
